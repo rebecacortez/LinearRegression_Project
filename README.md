@@ -1,4 +1,4 @@
-# Mini-Project | Linear Regression
+# Linear Regression Mini-Project 
 
 
 ## Introduction
